@@ -1,7 +1,3 @@
-Here's the enhanced README with the requested images included:
-
----
-
 # 🍴 Forkify Recipe Search Application
 
 Forkify is your ultimate recipe companion, designed to make searching for delicious recipes, viewing detailed culinary instructions, and managing your favorite dishes a breeze. With access to over 1,000,000 recipes, this web application allows you to discover new flavors, save your favorites, and even contribute your own culinary creations!
@@ -131,7 +127,3 @@ This project is licensed under the [MIT License](LICENSE). You're free to use, m
 ## 📧 Contact
 
 For questions, feedback, or any other inquiries, please check the contact information provided in the repository.
-
----
-
-Bon appétit with Forkify! Happy cooking and recipe sharing!
